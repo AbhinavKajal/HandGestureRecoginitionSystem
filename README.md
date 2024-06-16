@@ -1,2 +1,2 @@
 # HandGestureRecoginitionSystem
-Refer to -- VisionTask.pdf
+Refer to -- ReadMe.pdf
